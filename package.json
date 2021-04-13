@@ -1,0 +1,19 @@
+{
+  "name": "gsw-live-twitter-feed",
+  "version": "1.0.0",
+  "description": "An embedded Twitter feed containing live updates from the Golden State Warrior's official account",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Daniel Lachica",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1",
+    "webpack": "^5.32.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
